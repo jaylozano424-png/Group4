@@ -2,7 +2,7 @@ Group 4 Basic Website Project.
 
 Basic website for Industrial Organization and Management.
 
--- MEMBERS --
+--- MEMBERS ---
 
 * Albert Q. Ypil
 * Jake A. Moneva
